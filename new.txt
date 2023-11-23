@@ -1,1 +1,2 @@
-Thid file edited from GUI.
+This file edited from GUI.
+second line from GUI.
